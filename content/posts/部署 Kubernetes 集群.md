@@ -1,5 +1,5 @@
 ---
-title: "部署 Kubernetes 集群"
+title: "部署Kubernetes集群"
 date: 2019-07-12T22:39:35+08:00
 description: "搭建kubernetes的集群初级教程，权当尝试k8s"
 tags: ["docker", "Kubernetes"]
