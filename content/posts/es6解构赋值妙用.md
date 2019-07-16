@@ -155,7 +155,7 @@ let options = {
 
 let { musicData: {link}, bigArray: [a] } = options;
 console.log(link.img);		// "xxxx.com"
-console.log(a);				// 1
+console.log(a);				  // 1
 ```
 
 这种方法很有效，当我们从JSON配置中提取信息的时候，不在需要遍历整个解构了。
