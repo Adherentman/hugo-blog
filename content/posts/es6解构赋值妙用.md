@@ -21,8 +21,8 @@ let isOpen = options.isOpen;
 
 ```javascript
 let {isPush, isOpen} = options;
-console.log(isPush)		// true
-console.log(isOpen)		// false
+console.log(isPush)  // true
+console.log(isOpen)  // false
 ```
 
 ## 解构赋值
@@ -40,18 +40,18 @@ console.log(isClick)  // underfined
 
 ```javscript
 let {isPush, isOpen, isClick = false} = options;
-console.log(isPush)		// true
-console.log(isOpen)		// false
-console.log(isClick)		// false
+console.log(isPush)  // true
+console.log(isOpen)  // false
+console.log(isClick)  // false
 ```
 
 当然我们可以给未定义的变量赋初始值，那也就可以给变量改名：
 
 ```javascript
 let {isPush: isUnPush, isOpen: isUnOpen, isClick: isUnClick = false} = options;
-console.log(isUnPush)			// true
-console.log(isUnOpen)			// false
-console.log(isUnClick)		// false
+console.log(isUnPush)  // true
+console.log(isUnOpen)            // false
+console.log(isUnClick)        // false
 ```
 
 我们还可以发现当`isClick`不存在这个变量的时候，我们可以边给变量名再赋初始值；
@@ -60,21 +60,21 @@ console.log(isUnClick)		// false
 
 ```javascript
 let options = {
-	name: "Music",
-	status: "open",
-	musicData: {
-		link: {
-			img: "xxxx.com",
-			audio: "xxxxxx.com"
-		},
-		info: {
-			time: "2018-09-26"
-		}
-	}
+    name: "Music",
+    status: "open",
+    musicData: {
+        link: {
+            img: "xxxx.com",
+            audio: "xxxxxx.com"
+        },
+        info: {
+            time: "2018-09-26"
+        }
+    }
 };
 
 let { musicData: { info } } = options;
-console.log(info);		// {time: "2018-09-26}
+console.log(info);        // {time: "2018-09-26}
 ```
 
 与之前提到的给变量改名：
