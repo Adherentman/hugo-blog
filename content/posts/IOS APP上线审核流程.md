@@ -1,8 +1,8 @@
 ---
 title: "IOS APP上线审核流程"
 date: 2019-09-27T01:38:14.725Z
-description: "想要了解 Immutable 发现文档很牛掰，满头问号。但是为什么用了它之后能让你的应用具有更强的可读性、更好的健壮性、更少的错误以及可预测性？"
-tags: ["JavaScript"]
+description: "iOS上架AppStore审核所需的资料总结"
+tags: ["iOS"]
 ---
 
 ## APP信息
