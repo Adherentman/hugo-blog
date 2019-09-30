@@ -1,5 +1,5 @@
 ---
-title: "IOS APP上线审核流程"
+title: "IosAPP上线审核流程"
 date: 2019-09-27T01:38:14.725Z
 description: "iOS上架AppStore审核所需的资料总结"
 tags: ["iOS"]
