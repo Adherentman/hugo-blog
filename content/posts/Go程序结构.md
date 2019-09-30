@@ -1,7 +1,7 @@
 ---
-title: "Go程序结构"
+title: "Go学习笔记(1)"
 date: 2019-08-09T10:14:34.698Z
-description: "Go 的学习笔记"
+description: "Go的学习笔记"
 tags: ["Go"]
 ---
 
