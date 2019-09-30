@@ -1,9 +1,9 @@
----
-title: "配置阿里云服务器之Docker服务"
-date: 2019-07-16T22:04:55+08:00
-description: "使用阿里云服务器配置docker"
-tags: ["docker"]
----
++++
+title = "配置阿里云服务器之Docker服务"
+date = "2019-07-16T22:04:55+08:00"
+description = "使用阿里云服务器配置docker"
+tags = ["docker"]
++++
 
 阿里云搜索容器镜像服务。[网址地址](https://cr.console.aliyun.com/)
 

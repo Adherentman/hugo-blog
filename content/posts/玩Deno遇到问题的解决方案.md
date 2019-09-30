@@ -1,9 +1,9 @@
----
-title: "玩Deno遇到问题的解决方案"
-date: 2019-05-27T08:00:00.000Z
-description: "使用阿里云服务器配置docker"
-tags: ["JavaScript"]
----
++++
+title = "玩Deno遇到问题的解决方案"
+date = "2019-05-27T08:00:00.000Z"
+description = "使用阿里云服务器配置docker"
+tags = ["JavaScript"]
++++
 
 最近有个新的 Deno 项目是由 node 原作者 ry 发起的，瞬间火爆，star 数飞起。
 但是在搭建环境的过程中还是有些小问题，但是在友好的 issue 下都得到了解决！

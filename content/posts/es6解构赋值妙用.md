@@ -1,9 +1,9 @@
----
-title: "Es6解构赋值妙用"
-date: 2019-07-14T18:02:08+08:00
-description: "ES6的解构赋值详解"
-tags: ["JavaScript"]
----
++++
+title = "Es6解构赋值妙用"
+date = "2019-07-14T18:02:08+08:00"
+description = "ES6的解构赋值详解"
+tags = ["JavaScript"]
++++
 
 平常我们都这样去操作对象：
 

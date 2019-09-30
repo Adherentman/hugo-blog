@@ -1,9 +1,9 @@
----
-title: "git Empty Object File"
-date: 2019-08-06T00:00:00.000Z
-description: "一次突然断电。。导致之前的commit的没了。。`status`的时候发现全变空了。。解决过程在如下重现"
-tags: ["运维"]
----
++++
+title = "git Empty Object File"
+date = "2019-08-06T00:00:00.000Z"
+description = "一次突然断电。。导致之前的commit的没了。。`status`的时候发现全变空了。。解决过程在如下重现"
+tags = ["运维"]
++++
 
 ```shell
 ~/1mu(1803) » git status
